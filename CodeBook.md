@@ -24,11 +24,19 @@ run_analysis.R does the following.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The dataset includes the following files:
+
 'README.txt'
+
 'features_info.txt': Variable information 
+
 'features.txt': All features listed
+
 'activity_labels.txt': Connects labels with activity
+
 'train/X_train.txt': Set of training
+
 'train/y_train.txt': Labels for training
+
 'test/X_test.txt': Set for Test.
+
 'test/y_test.txt': Labels for Test.
